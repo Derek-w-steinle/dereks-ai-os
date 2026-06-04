@@ -1,0 +1,14 @@
+# Personal / local context (never committed)
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Dependencies
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
