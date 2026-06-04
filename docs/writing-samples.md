@@ -39,7 +39,7 @@ This is most of what Derek writes. The patterns:
 
 ### Gentle pushback on price
 
-> Hey, thanks for the updated photos. Unfortunately the one time clean price we sent was already as low as we can go, and from the current pictures it still looks like it'll need the full deep clean to get it swim ready. We aren't able to drop it any further at this point. Small correction too, our bi-weekly is $277 a month, not $257. We're happy to get started as soon as you're ready. Just let me know!
+> Hey, thanks for the updated photos. Unfortunately the one time clean price we sent was already as low as we can go, and from the current pictures it still looks like it'll need the full deep clean to get it swim ready. We aren't able to drop it any further at this point. Small correction too, the bi-weekly rate is a little higher than the figure you mentioned, the proposal has the exact number on it. We're happy to get started as soon as you're ready. Just let me know!
 
 ### Holding a position without giving in (no refund)
 
@@ -47,7 +47,7 @@ This is most of what Derek writes. The patterns:
 
 ### New customer, service description (a bullet list is fine here)
 
-> Hey [First], welcome to the neighborhood! We'd love to take care of the pool for you. Our weekly service is a flat rate of $397 a month which includes all chemicals. Here's what's included every visit:
+> Hey [First], welcome to the neighborhood! We'd love to take care of the pool for you. Our weekly service is a flat monthly rate that includes all chemicals. Here's what's included every visit:
 >
 > - Blow off the pool deck
 > - Net the surface of the water
