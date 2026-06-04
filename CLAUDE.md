@@ -11,8 +11,8 @@ every committed file.
 
 This repo is content and configuration, not a compiled app. Common checks:
 
-- Lint the README: `npx markdownlint README.md`
-- Lint every markdown file: `npx markdownlint "**/*.md"`
+- Lint the README: `npx markdownlint-cli2 README.md`
+- Lint every markdown file: `npx markdownlint-cli2 "**/*.md"`
 - Count CLAUDE.md lines (target 60–120): `wc -l CLAUDE.md`
 - Count CLAUDE.md H2 sections (expect 5): `grep -c "^## " CLAUDE.md`
 - List the tree: `ls -R`
@@ -38,7 +38,7 @@ the first place to look.
 
 - Skill folders use kebab-case names; each `SKILL.md` stays under 500 lines.
 - Every skill `description` starts with "When the user wants…" and ends with a
-  "For X, see <other-skill>" cross-reference for scope.
+  "For X, see other-skill" cross-reference for scope.
 - Skills read `docs/product-marketing.md` for shared product and audience
   context before asking the user to repeat it.
 - Markdown uses `-` for bullets, fenced code blocks with a language tag, and

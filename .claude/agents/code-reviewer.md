@@ -12,13 +12,13 @@ surface issues for the main session to fix rather than editing files yourself.
 
 ## What to check
 
-- **CLAUDE.md** — between 60 and 120 lines, exactly five `## ` sections, no
+- **CLAUDE.md** — between 60 and 120 lines, exactly five `##` sections, no
   personality directives, and positive phrasing ("Prefer X over Y") instead of
   negative framing.
 - **Skills** — every `SKILL.md` has `name` and `description` frontmatter, the
   description starts with "When the user wants…", and includes a
-  "For X, see <skill>" cross-reference.
-- **Markdown** — the README and docs would pass `npx markdownlint` (one H1,
+  "For X, see other-skill" cross-reference.
+- **Markdown** — the README and docs would pass `npx markdownlint-cli2` (one H1,
   fenced blocks tagged with a language, blank lines around lists and headings).
 - **Secrets** — confirm no client data or secrets appear in committed files.
 

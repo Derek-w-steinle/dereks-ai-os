@@ -6,7 +6,7 @@
       "Bash(grep:*)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
-      "Bash(npx markdownlint:*)"
+      "Bash(npx markdownlint-cli2:*)"
     ]
   }
 }
