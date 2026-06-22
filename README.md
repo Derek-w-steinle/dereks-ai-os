@@ -3,8 +3,8 @@
 This is a Claude Code workspace I built and use as a personal AI operating
 system. It's one Git-tracked folder that turns Claude Code into a repeatable
 assistant for the marketing work I did at Original 7, the residential pool
-company where I run service operations and marketing. It's a live workspace
-doing real work, and the structure itself, not any one output, is the point.
+company where I ran service operations and marketing. It did real work, 
+and the structure itself, not any one output, is the point.
 
 I taught myself to build this. The goal was simple: stop re-explaining the same
 context to a chat window every day, and encode it once in a way Claude loads and
