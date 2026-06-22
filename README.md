@@ -2,7 +2,7 @@
 
 This is a Claude Code workspace I built and use as a personal AI operating
 system. It's one Git-tracked folder that turns Claude Code into a repeatable
-assistant for the marketing work I do at Original 7, the residential pool
+assistant for the marketing work I did at Original 7, the residential pool
 company where I run service operations and marketing. It's a live workspace
 doing real work, and the structure itself, not any one output, is the point.
 
